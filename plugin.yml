@@ -1,0 +1,8 @@
+name: Flash8
+main: me.flash1213.Plugins.Main.ZombieKills
+version: 1.0
+commands:
+	zombiekills:
+		description: /help
+		usage: /<command>
+	
